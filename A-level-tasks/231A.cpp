@@ -15,7 +15,7 @@ int main()
 		if ((a + b + c) >= 2) 
 			++count; // 30ms
 		/* or (60ms)
-    if (a && b)
+   		 if (a && b)
 			++count;
 		else if (b && c)
 			++count;
